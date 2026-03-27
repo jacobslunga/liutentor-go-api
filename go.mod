@@ -1,4 +1,4 @@
-module liutentor-go-api
+module liutentor-go
 
 go 1.26.1
 

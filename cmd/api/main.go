@@ -6,9 +6,9 @@ import (
 	"github.com/labstack/echo/v5"
 	"github.com/labstack/echo/v5/middleware"
 
-	"liutentor-go-api/internal/config"
-	"liutentor-go-api/internal/db"
-	examhandler "liutentor-go-api/internal/handler/exam"
+	"liutentor-go/internal/config"
+	"liutentor-go/internal/db"
+	examhandler "liutentor-go/internal/handler/exam"
 )
 
 func main() {
